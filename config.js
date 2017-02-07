@@ -1,0 +1,1 @@
+var CURRENT_IP = '10.0.2.15'
