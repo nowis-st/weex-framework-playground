@@ -1,2 +1,2 @@
-# weex-framework-playground
+# Weex framework playground
 Testing Weex Framework
